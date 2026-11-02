@@ -1,6 +1,4 @@
 # luxury-cosmetics-analysis
-# 💄 Luxury Cosmetics Analysis
-
 An analytical deep dive into luxury cosmetics sales, customer purchasing behavior, and brand performance metrics.
 
 ## 📊 Project Objectives
